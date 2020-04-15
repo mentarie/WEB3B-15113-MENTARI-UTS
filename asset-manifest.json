@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/WEB3-15113-MENTARI-UTS/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/WEB3-15113-MENTARI-UTS/static/js/main.2d3f0d7d.chunk.js",
-    "main.js.map": "/WEB3-15113-MENTARI-UTS/static/js/main.2d3f0d7d.chunk.js.map",
-    "runtime-main.js": "/WEB3-15113-MENTARI-UTS/static/js/runtime-main.3218f23a.js",
-    "runtime-main.js.map": "/WEB3-15113-MENTARI-UTS/static/js/runtime-main.3218f23a.js.map",
-    "static/css/2.69121389.chunk.css": "/WEB3-15113-MENTARI-UTS/static/css/2.69121389.chunk.css",
-    "static/js/2.5cd18593.chunk.js": "/WEB3-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js",
-    "static/js/2.5cd18593.chunk.js.map": "/WEB3-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js.map",
-    "index.html": "/WEB3-15113-MENTARI-UTS/index.html",
-    "precache-manifest.e092b7fb6f7c5b34052e81da1345b4f6.js": "/WEB3-15113-MENTARI-UTS/precache-manifest.e092b7fb6f7c5b34052e81da1345b4f6.js",
-    "service-worker.js": "/WEB3-15113-MENTARI-UTS/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/WEB3-15113-MENTARI-UTS/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/WEB3-15113-MENTARI-UTS/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.5cd18593.chunk.js.LICENSE.txt": "/WEB3-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js.LICENSE.txt"
+    "main.css": "/WEB3B-15113-MENTARI-UTS/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/WEB3B-15113-MENTARI-UTS/static/js/main.bb451478.chunk.js",
+    "main.js.map": "/WEB3B-15113-MENTARI-UTS/static/js/main.bb451478.chunk.js.map",
+    "runtime-main.js": "/WEB3B-15113-MENTARI-UTS/static/js/runtime-main.3de11941.js",
+    "runtime-main.js.map": "/WEB3B-15113-MENTARI-UTS/static/js/runtime-main.3de11941.js.map",
+    "static/css/2.69121389.chunk.css": "/WEB3B-15113-MENTARI-UTS/static/css/2.69121389.chunk.css",
+    "static/js/2.5cd18593.chunk.js": "/WEB3B-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js",
+    "static/js/2.5cd18593.chunk.js.map": "/WEB3B-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js.map",
+    "index.html": "/WEB3B-15113-MENTARI-UTS/index.html",
+    "precache-manifest.575b5cb71336b06308f943d99f827676.js": "/WEB3B-15113-MENTARI-UTS/precache-manifest.575b5cb71336b06308f943d99f827676.js",
+    "service-worker.js": "/WEB3B-15113-MENTARI-UTS/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/WEB3B-15113-MENTARI-UTS/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/WEB3B-15113-MENTARI-UTS/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5cd18593.chunk.js.LICENSE.txt": "/WEB3B-15113-MENTARI-UTS/static/js/2.5cd18593.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3218f23a.js",
+    "static/js/runtime-main.3de11941.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.5cd18593.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.2d3f0d7d.chunk.js"
+    "static/js/main.bb451478.chunk.js"
   ]
 }
