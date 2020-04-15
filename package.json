@@ -2,7 +2,7 @@
   "name": "utsweb-15113",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mentarie.github.io/WEB3-15113-MENTARI-UTS/",
+  "homepage": "https://mentarie.github.io/WEB3B-15113-MENTARI-UTS/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
