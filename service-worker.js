@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WEB3-15113-MENTARI-UTS/precache-manifest.3f1edc58e844689b2415b27895138cdf.js"
+  "/WEB3-15113-MENTARI-UTS/precache-manifest.e092b7fb6f7c5b34052e81da1345b4f6.js"
 );
 
 self.addEventListener('message', (event) => {
